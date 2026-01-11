@@ -2,7 +2,7 @@
 # LAPORAN UJIAN AKHIR - PEMROGRAMAN MOBILE
 
 ## 1. Identitas Mahasiswa
-* **Nama:* [DESI PASAUNG]
+* **Nama:** [DESI PASAUNG]
 * **NIM:** [2304411513]
 * **Kelas:** [5K GAB 3 RPL]
 * **Nama:** [WIWIN INDRIANI SALATTA]
