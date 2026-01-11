@@ -1,5 +1,4 @@
 # Glints_TapLokerlite
-# jj
 # LAPORAN UJIAN AKHIR - PEMROGRAMAN MOBILE
 
 ## 1. Identitas Mahasiswa
